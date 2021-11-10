@@ -5,7 +5,7 @@ Official implementation for [***Hierarchical Deep Residual Reasoning for Tempora
 
 ## Model Pipeline
 
-<img src="README/model-pipeline.pdf" alt="model-pipeline"  />
+<img src="README/model-pipeline.png" alt="model-pipeline"  />
 
 
 
