@@ -62,7 +62,7 @@ python main.py --test --model_load_path
 
 List other hyper-parameters by:
 
-```
+```shell
 python main.py -h
 ```
 
