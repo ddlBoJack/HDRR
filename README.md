@@ -66,3 +66,15 @@ List other hyper-parameters by:
 python main.py -h
 ```
 
+## Reference
+
+Please cite the following paper if HDRR is helpful for your research.
+
+```
+@article{ma2021hierarchical,
+  title={Hierarchical Deep Residual Reasoning for Temporal Moment Localization},
+  author={Ma, Ziyang and Han, Xianjing and Song, Xuemeng and Cui, Yiran and Nie, Liqiang},
+  journal={arXiv preprint arXiv:2111.00417},
+  year={2021}
+}
+```
